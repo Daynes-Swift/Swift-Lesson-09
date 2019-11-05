@@ -1,3 +1,5 @@
+# Lesson 09 - Types
+
 # Exercise: Circles
 
 The circumference of a circle (the distance around the edge) can be found by multiplying the diameter of the circle (the distance across it) by ᴨ (pi).
